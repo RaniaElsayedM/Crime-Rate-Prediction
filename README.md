@@ -61,9 +61,12 @@ We ❤️ contributions! If you'd like to help improve this project, here’s ho
    ```
 5. Open a pull request 🚀.
 
+ <<<<<<< main
+ =======
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and share! 🎉
 
+ >>>>>>> main
 ## 🙌 Acknowledgments
 A big shoutout to:
 - 🧑‍💻 Contributors who made this project awesome.
